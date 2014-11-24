@@ -1,0 +1,9 @@
+{
+  "name": "firefox-copyurl-addon",
+  "title": "firefox-copyurl-addon",
+  "id": "jid1-CMjZ47bTrnlS2A",
+  "description": "Super-simple addon to copy url + title by press Ctrl+Alt+C",
+  "author": "Hiroaki Yutani",
+  "license": "MIT",
+  "version": "0.1"
+}
